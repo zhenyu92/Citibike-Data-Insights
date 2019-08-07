@@ -84,3 +84,7 @@ GROUP BY
   date,
   bikeid
 ```
+
+### Import & Tuning in Google Data Studio
+Screenshot of the Dashboard: 
+![alt text](https://github.com/zhenyu92/Citibike-Data-Insights/blob/master/Dashboard.jpg "Logo Title Text 1")
