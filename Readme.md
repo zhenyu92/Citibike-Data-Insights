@@ -1,4 +1,4 @@
-# Citibike Data Insights Powered by Google Data Studio
+# New York Citybike Data Insights Powered by Google Data Studio
 This project is a part of the learning milestone of a Udemy course delivered by [Chris Levy](https://www.udemy.com/sql-for-data-science-with-google-big-query/). 
 
 ### Author
