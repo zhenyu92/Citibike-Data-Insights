@@ -9,10 +9,11 @@ This project is a part of the learning milestone of a Udemy course delivered by 
 ### Project Status: [Completed]
 
 ### Project Objective
-The study is on the dateset of largest bike sharing program in the United States. To produece an internal dashboard which highlights interesting data points, metrics, and visualizations from all the bike trips in the database.
+The study is on the dateset of largest bike sharing program in the United States. To produce an internal dashboard which highlights interesting data points, metrics, and visualizations from all the bike trips in the database.
 
 ### Environment Prerequisites
 `Google Big Query` on `Google Cloud Platform`
+
 `Google Data Studio`
 
 ### Instruction
