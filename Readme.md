@@ -3,6 +3,7 @@ This project is a part of the learning milestone of a Udemy course delivered by 
 
 ### Author
 [Derrick Chan](https://github.com/zhenyu92)
+
 [Linkedin](https://www.linkedin.com/in/zychan/)
 
 ### Project Status: [Completed]
